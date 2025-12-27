@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Binary
+work_kg_backend
+
+# IDE
+.idea/
+.vscode/
